@@ -1,1 +1,2 @@
-"Hello, world!" is a time honored traditoin in computer programming.
+"Hello, world!" is a time honored tradition in computer programming.
+

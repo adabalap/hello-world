@@ -3,3 +3,6 @@
 
 	- testing SSH key authentication method
         - command line SSH still needs configuration
+
+Todo:
+Ansibel for automation

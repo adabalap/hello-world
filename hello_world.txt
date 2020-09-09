@@ -6,3 +6,5 @@
 
 Todo:
 Ansibel for automation
+Photos organizer
+Phone address book

@@ -2,7 +2,7 @@
 
 
 	- testing SSH key authentication method
-        - command line SSH still needs configuration
+        - command line SSH still needs configuration (this is fixed/figured out Nov-2020)
 
 Todo:
 Ansibel for automation
